@@ -1,0 +1,44 @@
+#icon{
+    width: 70px;
+}
+
+#navbar{
+    background-color: #112033;
+}
+
+a h1, a h6{
+    color: #146FB6;
+}
+
+main{
+    padding-top: 3%;
+    background-color: #146FB6;
+}
+
+.container{
+    background-color: rgba(26, 97, 151, 0.8)
+}
+
+#banner{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    margin: 0 auto;
+}
+
+#texto-section{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.seccion{
+    display: grid;
+}
+
