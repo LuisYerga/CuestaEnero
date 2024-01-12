@@ -7,16 +7,16 @@
 }
 
 a h1, a h6{
-    color: #146FB6;
+    color: #ffffff;
 }
 
 main{
     padding-top: 3%;
-    background-color: #146FB6;
+
 }
 
 .container{
-    background-color: rgba(26, 97, 151, 0.8)
+    background-color: #ffffff;
 }
 
 #banner{

@@ -40,7 +40,7 @@
                 <section id="intro">
                     <div id="salir">
                     <h3>Bienvenido al registro de novelas del Universo Star Wars</h3>
-                    <p>En esta página tendras a tu disposición una lista de las diferentes novelas de Star Wars divididas por su demografía</p>
+                    <h5>En esta página tendras a tu disposición una lista de las diferentes novelas de Star Wars divididas por su demografía</h5>
                     </div>
                 </section>
                 <section id="imagen">
@@ -55,6 +55,7 @@
             <section id="Adulta" class="seccion">
                 <section id="texto-section">
                     <h4>Adulto</h4>
+                    <h5>Encuentra aquí novelas adultas sel universo Star Wars</h5>
                 </section>
                 <section class="cards">
                     <div class="card" style="width: 18rem;">
@@ -80,6 +81,7 @@
             <section id="Juvenil" class="seccion">
                 <section id="texto-section">
                     <h4>Juvenil</h4>
+                    <p>Novelas juveniles perfectas para jovenes adultos</p>
                 </section>
                 <section class="cards">
                     <div class="card" style="width: 18rem;">
@@ -105,6 +107,7 @@
             <section id="Nino" class="seccion">
                 <section id="texto-section">
                     <h4>Niño</h4>
+                    <h5>Adaptaciones para los mas pequeños, diseñadas para su disfrute de la saga</h5>
                 </section>
                 <section class="cards">
                     <div class="card" style="width: 18rem;">
